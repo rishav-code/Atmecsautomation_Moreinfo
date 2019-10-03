@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.atmecs.assessment.testscripts.FootersScript">
+        <methods>
+          <include name="homefooterValidation"/>
+          <include name="mediafooterValidation"/>
+          <include name="ServicesfooterValidation"/>
+          <include name="aboutusfooterValidation"/>
+          <include name="careersfooterValidation"/>
+          <include name="contactfooterValidation"/>
+          <include name="end"/>
+          <include name="patenersfooterValidation"/>
+          <include name="insightsfooterValidation"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.atmecs.assessment.testscripts.FootersScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

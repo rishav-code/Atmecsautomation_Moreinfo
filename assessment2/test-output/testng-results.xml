@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29353" started-at="2019-10-03T12:33:37Z" finished-at="2019-10-03T12:34:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29353" started-at="2019-10-03T12:33:37Z" finished-at="2019-10-03T12:34:06Z">
+      <class name="com.atmecs.assessment.testscripts.ClickOnMoreInfoScript">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="intitailizeBrowser" is-config="true" duration-ms="19893" started-at="2019-10-03T12:33:17Z" finished-at="2019-10-03T12:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="clickOnExploreNow(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnExploreNow" duration-ms="7999" started-at="2019-10-03T12:33:37Z" data-provider="Explorenow" finished-at="2019-10-03T12:33:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnExploreNow -->
+        <test-method status="PASS" signature="clickOnMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnMoreInfo" duration-ms="4013" started-at="2019-10-03T12:33:46Z" data-provider="breadcrum" finished-at="2019-10-03T12:33:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence/Machine Learing | Leap at the possibilities of AI/ML]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMoreInfo -->
+        <test-method status="PASS" signature="clickOnMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnMoreInfo" duration-ms="3382" started-at="2019-10-03T12:33:50Z" data-provider="breadcrum" finished-at="2019-10-03T12:33:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mixed Reality | We engineer the technology. You achieve the unreal.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMoreInfo -->
+        <test-method status="PASS" signature="clickOnMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnMoreInfo" duration-ms="3531" started-at="2019-10-03T12:33:53Z" data-provider="breadcrum" finished-at="2019-10-03T12:33:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things | Reform your customer experience with IoT Data]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMoreInfo -->
+        <test-method status="PASS" signature="clickOnMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnMoreInfo" duration-ms="3427" started-at="2019-10-03T12:33:56Z" data-provider="breadcrum" finished-at="2019-10-03T12:34:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RPA & ChatBOTs | Pave way for digital transformation with RPA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMoreInfo -->
+        <test-method status="PASS" signature="clickOnMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="clickOnMoreInfo" duration-ms="5061" started-at="2019-10-03T12:34:00Z" data-provider="breadcrum" finished-at="2019-10-03T12:34:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain | ATMECS, Inc.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMoreInfo -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.atmecs.assessment.testscripts.ClickOnMoreInfoScript@3abbfa04]" name="end" is-config="true" duration-ms="944" started-at="2019-10-03T12:34:05Z" finished-at="2019-10-03T12:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.atmecs.assessment.testscripts.ClickOnMoreInfoScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
